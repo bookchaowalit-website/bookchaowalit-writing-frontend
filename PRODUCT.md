@@ -19,6 +19,20 @@ See `README.md` for install and run instructions when present.
 - Not claimed as production-ready unless README and tests prove it.
 - Mobile smoke / emulator acceptance is separate and toolchain-dependent.
 
+<!-- impeccable:product-schema 1 -->
+
+## Platform
+
+web
+
+## Current product truth
+
+Inferred from the existing UI and README; user confirmation pending. This is a
+read-only writing index with one demo published post, search, and Draft or
+Published filtering. It is not an editor, CMS, publishing pipeline, or
+multi-user writing service. The page should foreground the reading list and
+make the static-demo boundary visible.
+
 ## Source README excerpt
 
 ```
